@@ -12,7 +12,3 @@ npm install
 npm start
 npm run dev (Nodemon)
 ```
-
-## App Info
-
-### Author
