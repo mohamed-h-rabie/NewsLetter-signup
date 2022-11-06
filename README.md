@@ -14,6 +14,6 @@ nodemon app.js
 for staring
 ```
 
-##heroku link (for SignUp):
+## heroku link (for SignUp):
 https://glacial-falls-96687.herokuapp.com/
 
