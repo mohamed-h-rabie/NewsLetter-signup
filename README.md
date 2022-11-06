@@ -7,8 +7,13 @@
 ```bash
 # Install dependencies
 npm install
+npm install express bodyparser
 
 # Serve on localhost:3000
-npm start
-npm run dev (Nodemon)
+nodemon app.js
+for staring
 ```
+
+##heroku link (for SignUp):
+https://glacial-falls-96687.herokuapp.com/
+
